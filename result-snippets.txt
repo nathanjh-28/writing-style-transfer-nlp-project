@@ -134,3 +134,127 @@ BLEU:      0.000
 ROUGE-1:   0.000
 ROUGE-L:   0.000
 Perplexity: 38.5
+
+Input: If you are in an area with lakes, most paths eventually lead
+downhill to a pool of water. Even someone lost in thought will
+unknowingly walk toward water if it is nearby. If you are ever thirsty
+in a desert and traveling with a philosopher, try this as a method to
+find water. Thought and water are closely connected.
+Author: Herman Melville
+Generated: But even though one may be tempted by his own thoughts at
+times when he wishes for some fresh air or something else from
+afar—even so far back as where there are no other human beings
+anywhere near him, yet all that such feelings can accomplish; what
+would have been done had they not happened? Would any man then wish
+without hesitation upon entering a lake-streams could get himself out
+into the
+
+ Input: After an hour without sleeping, the Brahman got up, walked
+back and forth, went outside, and saw the moon had risen. He looked
+into the room through the window and saw Siddhartha standing in the
+same place with his arms folded and moonlight on his lower legs. The
+father, feeling concerned, returned to bed.
+Author: Herman Melville
+Generated: While he lay at last asleep one morning before a lighted
+lamp there appeared from out some dark recess of another chamber
+something like this—a small black door behind a desk which was closed
+by heavy lockers that were left open; but all these locks could be
+seen when they passed over the threshold. In front stood four men
+holding their heads as if facing him towards the doorway. One held it
+slightly
+
+Input: Shohei Ohtani, a player for the Los Angeles Dodgers, hit his
+40th home run of the season on Saturday in a game against the Toronto
+Blue Jays, giving the Dodgers a 3-0 lead. The Dodgers won the game
+9-1. It was their first consecutive home wins since they defeated the
+Chicago White Sox in three games from July 1 to July 3. Ohtani’s home
+run traveled 417 feet to center field.
+Author: Herman Melville
+Generated: This afternoon I made my way into the clubhouse and saw
+that two players were coming out with bat after batter; one named Sho
+Ha Noi—who has been playing this year among other things for
+Liverpool,—and another called him 'Sho' Hokun.' One by he means
+Ahimself, as it is said at all places where there are many Japanese
+people living now. And then an English
+
+
+
+Test 1:
+Input:     Manhattan is surrounded by docks, similar to how coral reefs...
+Generated: As if a great mariner with his ship at anchor near this place might have been foretold about as he was approaching its shores, so on account should we now look into every part or section within our city; for such places may be counted upon to receive these tides, which would render them no longer seaward but rather inland—like those mighty swells they call seas--and thus furnish us
+BLEU:      0.000
+ROUGE-1:   0.076
+ROUGE-L:   0.046
+Perplexity: 74.1
+
+Test 2:
+Input:     More people are walking straight toward the water, as if pre...
+Generated: The more men who now approach the sea-shore, some on foot or by other — these were those that had been drawn into this great gathering; but then came upon
+BLEU:      0.000
+ROUGE-1:   0.075
+ROUGE-L:   0.057
+Perplexity: 110.2
+
+Test 3:
+Input:     If you are in an area with lakes, most paths eventually lead...
+Generated: But when I was going out on my errand into some unknown country, not knowing where or how
+BLEU:      0.000
+ROUGE-1:   0.000
+ROUGE-L:   0.000
+Perplexity: 27.6
+
+Test 4:
+Input:     An artist wants to paint a peaceful and beautiful scene in t...
+Generated: So much for that picture-painting thing! I am going away from home. Not yet; but here comes my old friend, Bartleby, painting up this river under one cloud, so as scarcely show
+BLEU:      0.000
+ROUGE-1:   0.039
+ROUGE-L:   0.020
+Perplexity: 72.8
+
+Test 5:
+Input:     When I say I go to sea when I feel physically or mentally un...
+Generated: At that time I went ashore with my shipmates; but now I am no longer so inclined. For one thing—my master was gone off from his office at night, and there being nothing for me here except water,—I had nothing else left besides salt and bread than what we carried along into the land.
+BLEU:      0.000
+ROUGE-1:   0.082
+ROUGE-L:   0.082
+Perplexity: 50.7
+
+Test 6:
+Input:     The sky is blue...
+Generated: ‘The skies are blue,’ so that it's clear
+BLEU:      0.000
+ROUGE-1:   0.462
+ROUGE-L:   0.462
+Perplexity: 346.9
+
+Test 7:
+Input:     I'm hungry...
+Generated: Ah, but what do you want?
+BLEU:      0.000
+ROUGE-1:   0.000
+ROUGE-L:   0.000
+Perplexity: 63.9
+
+Test 8:
+Input:     Margaret, I believe I should achieve an important goal. I co...
+Generated: Now it seems good to do something about this situation; perhaps if you may say so, then you can give some assurance as well? No matter what your personal circumstances may be—my mind has always been very keen on doing anything at all which might help those who were under such great distress from old age. But now we shall both know our place among mankind,—a little better off than before!
+BLEU:      0.000
+ROUGE-1:   0.052
+ROUGE-L:   0.052
+Perplexity: 36.9
+
+Test 9:
+Input:     After an hour without sleeping, the Brahman got up, walked b...
+Generated: Now that they were all asleep again—with no more sleep than before; then he took a step towards them as if from curiosity or for some other reason.—And seeing him there stood sitting erect at their table-bench,—the young man looking straight down upon him like one who is going out alone now after dark! And so it was done both by himself (as though nothing could be further from
+BLEU:      0.000
+ROUGE-1:   0.126
+ROUGE-L:   0.079
+Perplexity: 52.3
+
+Test 10:
+Input:     Shohei Ohtani, a player for the Los Angeles Dodgers, hit his...
+Generated: Now this afternoon at noon I heard that there had been a scoreless inning between two teams here yesterday and today; but as soon then as my eyes were drawn over it again I began thinking how many more like them would have gone down by now if not such an incident happened! And yet some things happen which are beyond our power to control—and though we cannot know what is going upon with these
+BLEU:      0.000
+ROUGE-1:   0.040
+ROUGE-L:   0.040
+Perplexity: 35.5
