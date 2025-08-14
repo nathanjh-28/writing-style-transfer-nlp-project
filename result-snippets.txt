@@ -1,0 +1,136 @@
+Test 5:
+Input:     
+When I say I go to sea when I feel physically or mentally
+unwell, I do not mean I travel as a passenger. Passengers need money,
+and they often get sick and uncomfortable. I also do not go as a high-
+ranking officer or a cook. I avoid positions of responsibility and
+prefer not to work hard or take on duties. While I respect good
+cooking, I do not enjoy doing it myself. Ancient Egyptians preserved
+animals they cooked, such as ibises and hippopotamuses, which were
+later found as mummies.
+Generated: 
+It is true that people are hungry now but we must be careful 
+lest some might eat our food; therefore you should try your best at home 
+if possible (if no one else will). But there may be times where only someone 
+who has been eating for days can afford anything more expensive than what he/she needs . 
+This does have many benefits, especially during vacations like holidays with friends etc.
+BLEU:      0.000
+ROUGE-1:   0.025
+ROUGE-L:   0.012
+Perplexity: 38.2
+
+Test 6:
+Input:     The sky is blue...
+Generated: Blue skies, black clouds, and a lot more.
+BLEU:      0.000
+ROUGE-1:   0.333
+ROUGE-L:   0.167
+Perplexity: 50.3
+
+Test 7:
+Input:     I'm hungry...
+Generated: The first time you see him, he'll be a man who has no idea what is happening.
+BLEU:      0.000
+ROUGE-1:   0.000
+ROUGE-L:   0.000
+Perplexity: 16.0
+
+Test 9:
+Input:     After an hour without sleeping, the Brahman got up, walked
+back and forth, went outside, and saw the moon had risen. He looked
+into the room through the window and saw Siddhartha standing in the
+same place with his arms folded and moonlight on his lower legs. The
+father, feeling concerned, returned to bed.
+Generated: "Siddaraja bhagavam" means a man who stands as if he were walking around at night; hence this is not just another name for someone like Kama Sankara or Gautami Ramachandra (who are also called sanyas). It's more akin than that which Mahabhasya was living under Babaji but before him there lived Brahma &
+BLEU:      0.000
+ROUGE-1:   0.056
+ROUGE-L:   0.019
+Perplexity: 61.0
+
+Test 10:
+Input:     Shohei Ohtani, a player for the Los Angeles Dodgers, hit his
+40th home run of the season on Saturday in a game against the Toronto
+Blue Jays, giving the Dodgers a 3-0 lead. The Dodgers won the game
+9-1. It was their first consecutive home wins since they defeated the
+Chicago White Sox in three games from July 1 to July 3. Ohtani’s home
+run traveled 417 feet to center field.
+Generated: A homer by Jose Abreu will be listed as an extra base runner (in addition) after he is called out at third time and strike one count with runners advancing over second baseman Derek Jeter.
+BLEU:      0.000
+ROUGE-1:   0.037
+ROUGE-L:   0.037
+Perplexity: 61.6
+
+Test 9:
+Input:     After an hour without sleeping, the Brahman got up, walked
+back and forth, went outside, and saw the moon had risen. He looked
+into the room through the window and saw Siddhartha standing in the
+same place with his arms folded and moonlight on his lower legs. The
+father, feeling concerned, returned to bed.
+Generated: "A man who has not slept for a long time is now so anxious about getting ready that he wants nothing more than any little thing can do."
+BLEU:      0.000
+ROUGE-1:   0.024
+ROUGE-L:   0.024
+Perplexity: 29.7
+
+Test 2:
+Input:     More people are walking straight toward the water, as if
+preparing to jump in. They do not stop near the buildings for shade.
+They want to get as close to the water as they can without entering
+it. Many people stand there, stretching for miles. They come from all
+directions and different parts of the city. Yet they all gather at the
+water. Is there something drawing them there, like a magnet attracts a
+compass needle?
+Generated: The original was lost because I didn't have time or enough room on my phone screen when this one is finished!
+BLEU:      0.000
+ROUGE-1:   0.041
+ROUGE-L:   0.041
+Perplexity: 49.7
+
+
+Test 6:
+Input:     The sky is blue...
+Generated: I am a man, and an old friend of mine. You are too young to understand me now that I have written you this letter; but when we met here at last night it was my wish to meet again with one who knows all about myself...
+BLEU:      0.000
+ROUGE-1:   0.000
+ROUGE-L:   0.000
+Perplexity: 23.0
+
+Test 1:
+Input:     Manhattan is surrounded by docks, similar to how coral reefs
+surround islands. Business activity covers it like waves. The streets
+lead toward the water. At the southern tip is the Battery, where the
+pier is hit by ocean waves and cooled by sea breezes that were far
+from land not long ago. Many people are gathered there, watching the
+water.
+
+Generated: Brooklyn's waterfronts have been a part-time business for decades now; however, they don't seem as much affected with today than when I wrote them last.
+BLEU:      0.000
+ROUGE-1:   0.023
+ROUGE-L:   0.023
+Perplexity: 46.6
+
+Test 2:
+Input:     More people are walking straight toward the water, as if
+preparing to jump in. They do not stop near the buildings for shade.
+They want to get as close to the water as they can without entering
+it. Many people stand there, stretching for miles. They come from all
+directions and different parts of the city. Yet they all gather at the
+water. Is there something drawing them there, like a magnet attracts a
+compass needle?
+Generated: The above is probably what you were thinking about how your friend would be surprised by this story that I wrote up last week!
+BLEU:      0.000
+ROUGE-1:   0.040
+ROUGE-L:   0.040
+Perplexity: 40.0
+
+Test 3:
+Input:     If you are in an area with lakes, most paths eventually lead
+downhill to a pool of water. Even someone lost in thought will
+unknowingly walk toward water if it is nearby. If you are ever thirsty
+in a desert and traveling with a philosopher, try this as a method to
+find water. Thought and water are closely connected.
+Generated: " When I was on my last trip through Africa . There were some wild animals which would swim down from above me so that they could be eaten by birds or snakes who might eat them alive."
+BLEU:      0.000
+ROUGE-1:   0.000
+ROUGE-L:   0.000
+Perplexity: 38.5
