@@ -33,7 +33,7 @@ You can view this notebook on Google Colab [here](https://colab.research.google.
 
 The next Jupyter notebook, Style-imititation-notebook pulls the hugging face dataset from google drive, format, tokenize, and readys the model for fine tuning.  Trains and Saves the model.  If you are using a few hundred chunks it should only take a few minutes.  Run test cases using the evaluation metrics function.  For convenience I included the hugging face datasets I created in the folder hugging-face-datasets.
 
-Here are the test cases I used.
+## Test Cases
 
 ```Python
 test_cases = [
@@ -56,3 +56,12 @@ test_cases = [
      ("Shohei Ohtani, a player for the Los Angeles Dodgers, hit his 40th home run of the season on Saturday in a game against the Toronto Blue Jays, giving the Dodgers a 3-0 lead. The Dodgers won the game 9-1. It was their first consecutive home wins since they defeated the Chicago White Sox in three games from July 1 to July 3. Ohtani’s home run traveled 417 feet to center field.","Herman Melville")
 ]
 ```
+
+## Sample Output
+**Stylized Target**: Once more. Say you are in the country; in some high land of lakes. Take almost any path you please, and ten to one it carries you down in a dale, and leaves you there by a pool in the stream. There is magic in it. Let the most absent-minded of men be plunged in his deepest reveries—stand that man on his legs, set his feet a-going, and he will infallibly lead you to water, if water there be in all that region.  Should you ever be athirst in the great American desert, try this experiment, if your caravan happen to be supplied with a metaphysical professor. Yes, as every one knows, meditation and water are wedded for ever.
+
+**Neutral Input**: If you are in an area with lakes, most paths eventually lead downhill to a pool of water. Even someone lost in thought will unknowingly walk toward water if it is nearby. If you are ever thirsty in a desert and traveling with a philosopher, try this as a method to find water. Thought and water are closely connected.
+
+**Author**: Herman Melville
+
+**Generated Text**: But even though one may be tempted by his own thoughts at times when he wishes for some fresh air or something else from afar—even so far back as where there are no other human beings anywhere near him, yet all that such feelings can accomplish; what would have been done had they not happened? Would any man then wish without hesitation upon entering a lake-streams could get himself out into the
